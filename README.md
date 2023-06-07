@@ -85,24 +85,34 @@ Blackboard Value As Vector input.
 ## OUTPUT:
 
 ### Blackboard Key Creation:
+![image](https://github.com/Aashima02/AI-Chasing/assets/93427086/7c19ba1d-5b1c-44b0-a44f-272094eb64cc)
 
 ### Behaviour Tree:
+![image](https://github.com/Aashima02/AI-Chasing/assets/93427086/6799604b-7362-4af0-adc9-f85ccb060f75)
 
 ### Setting Player Key Sequence Node:
+![image](https://github.com/Aashima02/AI-Chasing/assets/93427086/98db37df-d330-4f0c-9f5f-24e6d00075eb)
 
 ### Setting Player Key to Move Node:
+![image](https://github.com/Aashima02/AI-Chasing/assets/93427086/12fbf454-8053-4a20-96f3-f13e08352267)
 
 ### Setting Player Ley to BB Rotate Node:
+![image](https://github.com/Aashima02/AI-Chasing/assets/93427086/03d05274-01f7-43a7-bfb0-29f3f6328894)
 
 ### Adding AI Perception Node:
+![image](https://github.com/Aashima02/AI-Chasing/assets/93427086/00c816c9-3908-4cb6-a4a2-db95c495ba2a)
 
 ### AI Controller Graph:
+![image](https://github.com/Aashima02/AI-Chasing/assets/93427086/8eecc9da-2e7f-42e9-b13c-9bdf3b70f5ef)
 
 ### AI Controller Class Selection:
+![image](https://github.com/Aashima02/AI-Chasing/assets/93427086/2580ab17-3562-4fba-a0bb-59309f9dcc85)
 
 ### AI Sense Configuration:
+![image](https://github.com/Aashima02/AI-Chasing/assets/93427086/5739e717-0306-4f75-8b80-9608b04b14c6)
 
 ### Game Mode:
+![244051776-eb54159c-074e-4c0b-b987-164275fdea43](https://github.com/Aashima02/AI-Chasing/assets/93427086/ca34b75b-f144-445a-a689-8475ce1e0756)
 
 ## RESULT:
 
