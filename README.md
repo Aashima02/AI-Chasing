@@ -103,13 +103,14 @@ Blackboard Value As Vector input.
 ![image](https://github.com/Aashima02/AI-Chasing/assets/93427086/00c816c9-3908-4cb6-a4a2-db95c495ba2a)
 
 ### AI Controller Graph:
-![image](https://github.com/Aashima02/AI-Chasing/assets/93427086/8eecc9da-2e7f-42e9-b13c-9bdf3b70f5ef)
+![image](https://github.com/Aashima02/AI-Chasing/assets/93427086/5739e717-0306-4f75-8b80-9608b04b14c6)
 
 ### AI Controller Class Selection:
 ![image](https://github.com/Aashima02/AI-Chasing/assets/93427086/2580ab17-3562-4fba-a0bb-59309f9dcc85)
 
 ### AI Sense Configuration:
-![image](https://github.com/Aashima02/AI-Chasing/assets/93427086/5739e717-0306-4f75-8b80-9608b04b14c6)
+![image](https://github.com/Aashima02/AI-Chasing/assets/93427086/8eecc9da-2e7f-42e9-b13c-9bdf3b70f5ef)
+
 
 ### Game Mode:
 ![244051776-eb54159c-074e-4c0b-b987-164275fdea43](https://github.com/Aashima02/AI-Chasing/assets/93427086/ca34b75b-f144-445a-a689-8475ce1e0756)
